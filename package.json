@@ -1,0 +1,15 @@
+{
+  "name": "miaomiao",
+  "version": "1.0.0",
+  "description": "喵喵电影",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cyrus",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
